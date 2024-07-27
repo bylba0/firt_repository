@@ -1,0 +1,1 @@
+print("privet from git")
